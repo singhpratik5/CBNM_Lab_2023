@@ -1,0 +1,22 @@
+# Completion Report : 22MCCE24
+
+Here is a topic-wise completion report of the numerical methods code:
+
+## I. Root Finding
+I have successfully completed the implementation of simple methods such as bisection, regula-falsi, Newton-Raphson, Secant.
+
+## II. Solving Systems of Equations
+I have completed the implementation of methods like Gauss elimination, Gauss-Jordan, Jacobi LU decomposition methods.
+
+## III. Interpolation and Quadrature Methods
+I have successfully implemented methods like Linear, Lagrange, Vandermonde, Trapezoidal rule, Simpson's rule for definite integrals, and Gaussian quadrature.
+
+## IV. Regression and Least Squares Approximation
+I have completed the implementation of methods for regression and least squares approximation.
+
+## V. Solving Ordinary Differential Equations
+I have successfully implemented methods like Euler's and modified Euler's methods, Piccard's successive approximation, and Runge-Kutta methods.
+
+ LAB 09 : I have also completed building a C library. // TESTED ALSO : Working
+
+ 
